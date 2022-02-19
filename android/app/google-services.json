@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "148432643296",
+    "project_id": "bodytech-d112c",
+    "storage_bucket": "bodytech-d112c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148432643296:android:2ef7a946bc01d2245e1c85",
+        "android_client_info": {
+          "package_name": "com.example.bodytech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148432643296-njcfoqms5eitkfmpha4jqsaeoicbfcmc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDK7EVHehbwm36mEibRPe0o053dAMWRQh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148432643296-njcfoqms5eitkfmpha4jqsaeoicbfcmc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
